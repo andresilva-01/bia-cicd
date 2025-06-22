@@ -44,5 +44,3 @@ describe('Versao Controller', () => {
     expect(res.send).toHaveBeenCalledWith('Bia 1.0.0');
   });
 });
-
-//teste branch
